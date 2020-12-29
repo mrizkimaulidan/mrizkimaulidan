@@ -4,4 +4,4 @@
 
 ##### BIO
 
-- <a href="https://mrizkimaulidan.github.com" target="_blank">About me Page</a>
+- [About me Page](https://mrizkimaulidan.github.io)
