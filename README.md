@@ -15,6 +15,6 @@ That's it, I don't play any socials media 😝
 <summary>⚡️ More about my coding life</summary>
 <br />
           
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mrizkimaulidan&theme=dark&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mrizkimaulidan&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
 
 </details>
