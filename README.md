@@ -9,7 +9,6 @@ Software engineering, backend development, open source, linux, kali linux, cyber
 
 💬 **More**:<br>
 - https://mrizkimaulidan.vercel.app/
-- https://kikiwrites.vercel.app/
 
 📫 **Hit me up at**:
 
