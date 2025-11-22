@@ -12,7 +12,7 @@ Software engineering, backend development, open source, linux, kali linux, cyber
 
 📫 **Hit me up at**:
 
-[![](https://img.shields.io/badge/-Email-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:mrizkimaulidanx@gmail.com)
+[![](https://img.shields.io/badge/-Email-lightgrey?logo=icloud&style=flat&logoColor=white&color=D14836)](mailto:mrizkimaulidan@icloud.com)
 
 <!--
 **mrizkimaulidan/mrizkimaulidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
